@@ -3,7 +3,7 @@
     "name": "MoreScience15",
     "cost": 0,
     "uniques": [
-      "Unbuildable <for [AI player]>",
-      "science: 15" ]
+      "Unbuildable <for [AI player]>"],
+      "science": 15
   }
 ] 
